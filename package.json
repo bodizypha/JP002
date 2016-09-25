@@ -1,0 +1,19 @@
+{
+  "name": "jp002",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodizypha/JP002.git"
+  },
+  "author": "jed davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bodizypha/JP002/issues"
+  },
+  "homepage": "https://github.com/bodizypha/JP002#readme"
+}
